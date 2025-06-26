@@ -15,6 +15,7 @@
     <img height="40" class="svgLogo" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
     <img height="40" class="svgLogo" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img height="40" class="svgLogo" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <img height="40" class="svgLogo" ng-scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icon/php/php-original.svg" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-orinal.svg"> 
     
     
 </div><br/>
