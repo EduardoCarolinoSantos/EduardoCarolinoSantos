@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-carolino-santos/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511996627759)
 
-Sou apaixonado por **programação, automação e IA aplicada à gestão condominial**. Atuo construindo soluções que **conectam sistemas legados (SOAP/REST)**, automatizam rotinas administrativas, integram **bots no WhatsApp**, geram **dashboards e relatórios**, e sustentam operações com **CI/CD, Docker e Jenkins**.
+Sou apaixonado por **programação, automação e IA aplicada à gestão**. Atuo construindo soluções que **conectam sistemas legados (SOAP/REST)**, automatizam rotinas administrativas, integram **bots no WhatsApp**, geram **dashboards e relatórios**, e sustentam operações com **CI/CD, Docker e Jenkins**.
 
 ---
 
@@ -43,7 +43,6 @@ Sou apaixonado por **programação, automação e IA aplicada à gestão condomi
 ### Bancos de Dados
 <div style="display:flex; gap:8px; flex-wrap:wrap;">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
 ### DevOps / Infra
@@ -51,7 +50,7 @@ Sou apaixonado por **programação, automação e IA aplicada à gestão condomi
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
