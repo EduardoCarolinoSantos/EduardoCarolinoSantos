@@ -49,7 +49,6 @@ Sou apaixonado por **programação, automação e IA aplicada à gestão condomi
 **Bancos de Dados**  
 <div style="display:flex; gap:8px; flex-wrap:wrap;">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
 **DevOps / Infra**  
@@ -112,7 +111,6 @@ I’m passionate about **software development, automation, and AI applied to con
 **Databases**  
 <div style="display:flex; gap:8px; flex-wrap:wrap;">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
 **DevOps / Infra**  
