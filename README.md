@@ -1,34 +1,34 @@
-# Eduardo Carolino Santos
-
 **🇧🇷 [Português](#-português)** | **🇺🇸 [English](#-english)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-carolino-santos/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511996627759)
 
-![Snake animation](https://raw.githubusercontent.com/EduardoCarolinoSantos/EduardoCarolinoSantos/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/EduardoCarolinoSantos/EduardoCarolinoSantos/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🇧🇷 Português
 
-Sou apaixonado por **programação, automação e IA aplicada à gestão condominial**. Construo soluções que **integram sistemas legados (SOAP/REST)**, automatizam rotinas administrativas, conectam **chatbots no WhatsApp**, geram **dashboards e relatórios**, e rodam com **CI/CD, Docker e Jenkins**.
+Trabalho com desenvolvimento, automação e integração de sistemas — sempre com foco em **soluções práticas e inteligentes para o setor condominial**.  
+Sou especialista em conectar sistemas legados, criar APIs modernas, desenvolver chatbots e automatizar rotinas críticas utilizando **Java, Python, Docker, pipelines CI/CD e serviços em nuvem**.
 
-### 🚀 O que eu faço hoje
-- Desenvolvimento **PHP + JavaScript (Node.js/Vanilla)** para integrações, APIs e chatbots  
-- **Automação de processos** (Power Automate, Google Apps Script, Python)  
-- Integrações com **webservices SOAP/REST** (Ahreas, etc.)  
-- **DevOps básico**: Docker, Jenkins, Git/GitHub, deploys e pipelines  
-- **Banco de dados**: MySQL e MongoDB  
-- Projetos com **OCR, QuickChart.io** e **integrações de IA** (OpenAI)
+### 🚀 Atuação atual
+- Desenvolvimento **Java** e **Python** para APIs, integrações e automações  
+- Criação de **chatbots** (WhatsApp) e fluxos automatizados (Power Automate, N8n, Apps Script)  
+- Consumo e integração de **webservices SOAP/REST** (Ahreas, AWS e outros)  
+- **DevOps**: Docker, Jenkins, pipelines GitHub/GitLab  
+- **Bancos de dados**: MySQL, MariaDB, PostgreSQL, MongoDB  
+- Projetos com **OCR**, gráficos dinâmicos (QuickChart) e **IA aplicada** (OpenAI)
 
-### 🧰 Tecnologias que uso atualmente
+---
+
+### 🧰 Tecnologias que uso hoje
 
 **Linguagens**  
 <div style="display:flex; gap:8px; flex-wrap:wrap;">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
@@ -39,16 +39,21 @@ Sou apaixonado por **programação, automação e IA aplicada à gestão condomi
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-**Back-end / Integrações**
-- **PHP 8+**, **cURL**, **SOAP/REST**, **Composer**
-- **Node.js** (Venom Bot, automações, scripts)
+**Back-end / Integrações (Java)**  
+- **Java 17+**, **Spring Boot**, **Spring Web**, **Spring Data JPA**  
+- **REST APIs**, autenticação JWT e boas práticas de arquitetura  
+- Integrações externas via **HTTP Client**, **Feign** ou **RestTemplate**  
+- Build e dependências com **Maven** e **Gradle**  
+- Testes com **JUnit**, **Mockito** e **Spring Test**
 
 **Bancos de Dados**  
 <div style="display:flex; gap:8px; flex-wrap:wrap;">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
-**DevOps / Infra**  
+**DevOps / Infraestrutura**  
 <div style="display:flex; gap:8px; flex-wrap:wrap;">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
@@ -59,38 +64,42 @@ Sou apaixonado por **programação, automação e IA aplicada à gestão condomi
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
-**Low/No-Code & Automação**
-- **Power Automate**, **Google Apps Script**, **QuickChart.io**
-- **OCR**, **integrações com OpenAI**
+**Low/No-Code & Automação**  
+- **Power Automate**, **Google Apps Script**, **N8n**, **MakeAI**  
+- **OCR**, **QuickChart.io**, e integrações com **OpenAI**
+
+---
 
 ### 🎯 Foco atual
-- Escalar automações para **operações condominiais**
-- **Boas práticas de CI/CD**, monitoramento e observabilidade
-- **Segurança de integrações** e proteção de dados
-- Aprofundar em **DevOps (Docker/Kubernetes)** e **cloud**
+- Escalar automações internas e integrações corporativas  
+- Fortalecer práticas de **CI/CD**, qualidade e observabilidade  
+- Implementar maior **segurança em APIs** e fluxos automatizados  
+- Evoluir em **DevOps, Containers e Cloud**
 
 ---
 
 ## 🇺🇸 English
 
-I’m passionate about **software development, automation, and AI applied to condominium management**. I build solutions that **bridge legacy systems (SOAP/REST)**, automate administrative workflows, connect **WhatsApp chatbots**, deliver **dashboards & reports**, and run on **CI/CD, Docker, and Jenkins**.
+I work with software development, automation, and system integration — focused on delivering **smart, reliable solutions for condominium and property management operations**.  
+I specialize in connecting legacy systems, building modern APIs, developing chatbots, and deploying automation pipelines using **Java, Python, Docker, CI/CD and cloud services**.
 
-### 🚀 What I’m doing now
-- **PHP + JavaScript (Node.js/Vanilla)** for integrations, APIs, and chatbots  
-- **Process automation** (Power Automate, Google Apps Script, Python)  
-- **SOAP/REST webservices** integrations (Ahreas, etc.)  
-- **Basic DevOps**: Docker, Jenkins, Git/GitHub, deployments & pipelines  
-- **Databases**: MySQL and MongoDB  
-- Projects with **OCR, QuickChart.io**, and **AI integrations** (OpenAI)
+### 🚀 What I do today
+- **Java & Python development** for APIs, integrations, and automation  
+- Building **WhatsApp chatbots** and automation flows (Power Automate, N8n, Apps Script)  
+- Integrations with **SOAP/REST webservices** (Ahreas, AWS, etc.)  
+- **DevOps**: Docker, Jenkins, Git/GitHub pipelines  
+- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB  
+- Projects involving **OCR**, dynamic charts (QuickChart), and **AI integrations** (OpenAI)
 
-### 🧰 Tech stack I use today
+---
+
+### 🧰 Technologies I work with
 
 **Languages**  
 <div style="display:flex; gap:8px; flex-wrap:wrap;">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
@@ -101,16 +110,21 @@ I’m passionate about **software development, automation, and AI applied to con
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-**Back-end / Integrations**
-- **PHP 8+**, **cURL**, **SOAP/REST**, **Composer**
-- **Node.js** (Venom Bot, automations, scripts)
+**Back-end / Integrations (Java)**  
+- **Java 17+**, **Spring Boot**, **Spring Web**, **Spring Data JPA**  
+- **REST APIs**, JWT authentication, and clean architecture patterns  
+- Third-party integrations using **HTTP Client**, **Feign**, or **RestTemplate**  
+- Build & dependency management with **Maven** and **Gradle**  
+- Testing with **JUnit**, **Mockito**, **Spring Test**
 
 **Databases**  
 <div style="display:flex; gap:8px; flex-wrap:wrap;">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
-**DevOps / Infra**  
+**DevOps / Infrastructure**  
 <div style="display:flex; gap:8px; flex-wrap:wrap;">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
@@ -122,16 +136,8 @@ I’m passionate about **software development, automation, and AI applied to con
 </div>
 
 **Low/No-Code & Automation**
-- **Power Automate**, **Google Apps Script**, **QuickChart.io**
-- **OCR**, **OpenAI integrations**
-
-### 🎯 Current focus
-- Scaling **automations for condominium operations**
-- **CI/CD best practices**, monitoring & observability
-- **Security for integrations** and data protection
-- Deepening **DevOps (Docker/Kubernetes)** and **cloud**
+- **Power Automate**, **Google Apps Script**, **N8n**, **MakeAI**  
+- **OCR**, **QuickChart.io**, **OpenAI integrations**
 
 ---
 
-## 💬 Let’s talk!
-Want to chat about **automation, integrations, bots, DevOps or AI applied to business**? Ping me on **WhatsApp** or **LinkedIn**! 🙂
