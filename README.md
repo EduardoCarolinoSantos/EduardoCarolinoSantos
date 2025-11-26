@@ -5,8 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-carolino-santos/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511996627759)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCarolinoSantos&layout=compact&theme=radical&hide_border=true)
-
+![snake gif](https://github.com/EduardoCarolinoSantos/EduardoCarolinoSantos/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
