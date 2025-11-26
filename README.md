@@ -13,12 +13,6 @@
 
 <br>
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoCarolinoSantos&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/EduardoCarolinoSantos)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduardoCarolinoSantos&theme=tokyonight&hide_border=true)](https://github.com/EduardoCarolinoSantos)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoCarolinoSantos&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/EduardoCarolinoSantos)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=EduardoCarolinoSantos&color=70a5fd&style=flat-square&label=Visitantes)
 
 </div>
