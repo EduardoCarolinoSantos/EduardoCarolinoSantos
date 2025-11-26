@@ -13,11 +13,11 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoCarolinoSantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoCarolinoSantos&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://streak-stats.demolab.com/?user=EduardoCarolinoSantos&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=EduardoCarolinoSantos&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCarolinoSantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCarolinoSantos&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EduardoCarolinoSantos&color=70a5fd&style=flat-square&label=Visitantes)
 
