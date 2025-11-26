@@ -3,13 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-carolino-santos/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511996627759)
 
-![Snake animation](https://raw.githubusercontent.com/EduardoCarolinoSantos/EduardoCarolinoSantos/output/github-contribution-grid-snake.svg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=EduardoCarolinoSantos&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
 ## 🇧🇷 Português
 
-Trabalho com desenvolvimento, automação e integração de sistemas — sempre com foco em **soluções práticas e inteligentes para o setor condominial**.  
+Trabalho com desenvolvimento, automação e integração de sistemas — sempre com foco em **soluções práticas e inteligentes**.  
 Sou especialista em conectar sistemas legados, criar APIs modernas, desenvolver chatbots e automatizar rotinas críticas utilizando **Java, Python, Docker, pipelines CI/CD e serviços em nuvem**.
 
 ### 🚀 Atuação atual
@@ -80,7 +80,7 @@ Sou especialista em conectar sistemas legados, criar APIs modernas, desenvolver 
 
 ## 🇺🇸 English
 
-I work with software development, automation, and system integration — focused on delivering **smart, reliable solutions for condominium and property management operations**.  
+I work with software development, automation, and system integration — focused on delivering **smart, reliable solutions**.  
 I specialize in connecting legacy systems, building modern APIs, developing chatbots, and deploying automation pipelines using **Java, Python, Docker, CI/CD and cloud services**.
 
 ### 🚀 What I do today
