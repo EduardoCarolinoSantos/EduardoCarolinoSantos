@@ -2,7 +2,7 @@
 
 # 👨‍💻 Eduardo Carolino Santos
 
-### Desenvolvedor Full Stack | Especialista em Automação & Integrações
+### Engenheiro de Softwares| Especialista em Automação & Integrações
 
 **🇧🇷 [Português](#-português)** | **🇺🇸 [English](#-english)**
 
